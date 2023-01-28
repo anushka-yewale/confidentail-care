@@ -1,0 +1,36 @@
+body{
+    background-image: linear-gradient(
+  135deg,
+  hsl(100deg 87% 47%) 0%,
+  hsl(103deg 71% 51%) 5%,
+  hsl(105deg 68% 53%) 10%,
+  hsl(106deg 64% 55%) 16%,
+  hsl(107deg 61% 57%) 21%,
+  hsl(107deg 57% 58%) 26%,
+  hsl(108deg 53% 59%) 31%,
+  hsl(108deg 49% 60%) 36%,
+  hsl(109deg 46% 60%) 41%,
+  hsl(109deg 42% 61%) 46%,
+  hsl(109deg 38% 62%) 52%,
+  hsl(110deg 34% 62%) 57%,
+  hsl(110deg 30% 63%) 62%,
+  hsl(110deg 26% 63%) 67%,
+  hsl(110deg 21% 64%) 73%,
+  hsl(111deg 17% 64%) 78%,
+  hsl(111deg 13% 64%) 83%,
+  hsl(111deg 9% 64%) 89%,
+  hsl(111deg 4% 65%) 94%,
+  hsl(0deg 0% 65%) 100%
+);
+    background-size: cover;
+    background-attachment: fixed;  
+    background-repeat: no-repeat;
+}
+
+.navbar{
+    font-size: 20px  !important;
+}
+
+.navbar-brand {
+    font-size: 30px !important;
+}
